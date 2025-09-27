@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi It's Easin Arafat 👋
 
 <!--
 **EasinArafat3336/EasinArafat3336** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
