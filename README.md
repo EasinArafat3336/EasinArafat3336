@@ -97,11 +97,11 @@
 
 ## 🐍 Contribution Snake
 
-> ⚠️ **নিচের ছবিটা দেখাবে GitHub Actions সেটআপের পরে** — নিচে setup গাইড দেখো
+
 
 <div align="center">
 
-<img src="https://github.com/EasinArafat3336/EasinArafat3336/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/EasinArafat3336/EasinArafat3336/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
