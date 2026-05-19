@@ -5,7 +5,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0d0d2b,60:1a0533,100:2d1b69&height=220&section=header&text=Easin%20Arafat&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20CSE%20Student%20%7C%20Problem%20Solver&descAlignY=62&descSize=17&descColor=c084fc"/>
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=👋+Welcome+to+my+GitHub+profile!;💻+Building+things+with+HTML+%2F+CSS+%2F+JS;🧩+Solving+DSA+problems+on+LeetCode;⚔️+Gearing+up+for+Codeforces+contests;🚀+Every+day+is+a+new+commit!" alt="Typing SVG"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Hi+There!+I'm+Easin+Arafat;Full+Stack+Developer+in+Progress;BSc+CSE+%40+NUBT+Khulna;DSA+Problem+Solver+on+LeetCode;Every+day+is+a+new+commit!)](https://git.io/typing-svg)
 
 <br/>
 
@@ -30,7 +30,7 @@
 ```json
 {
   "name"       : "Easin Arafat",
-  "university" : "NUBT Khulna — B.Sc. CSE",
+  "university" : "NORTHERN UNIVERSITY OF BUSINESS & TECHNOLOGY KHULNA— B.Sc. CSE",
   "role"       : "Full Stack Developer (In Progress)",
   "languages"  : ["C", "C++", "JavaScript", "HTML", "CSS"],
   "learning"   : ["React.js", "Node.js", "DSA"],
@@ -52,8 +52,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
@@ -71,7 +69,6 @@
 | JavaScript | ![65%](https://progress-bar.xyz/65/?scale=100&title=JavaScript&width=200&color=F7DF1E&suffix=%) | ⭐⭐⭐⭐ |
 | C / C++ | ![60%](https://progress-bar.xyz/60/?scale=100&title=C/C++&width=200&color=00599C&suffix=%) | ⭐⭐⭐ |
 | DSA (LeetCode) | ![25%](https://progress-bar.xyz/25/?scale=100&title=DSA&width=200&color=FFA116&suffix=%) | ⭐⭐ 🔥 Growing |
-| React.js | ![20%](https://progress-bar.xyz/20/?scale=100&title=React&width=200&color=61DAFB&suffix=%) | ⭐⭐ 🌱 Learning |
 
 </div>
 
