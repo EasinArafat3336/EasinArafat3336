@@ -113,7 +113,7 @@
 
 <div align="center">
 
-<img src="https://github.com/EasinArafat3336/EasinArafat3336/blob/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
+<img src="https://raw.githubusercontent.com/EasinArafat3336/EasinArafat3336/refs/heads/main/profile-3d-contrib/profile-night-view.svg"/>
 
 </div>
 
