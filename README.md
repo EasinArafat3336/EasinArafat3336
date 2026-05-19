@@ -109,11 +109,11 @@
 
 ## 📊 3D Contribution Graph
 
-> ⚠️ **নিচের ছবিটা দেখাবে GitHub Actions সেটআপের পরে** — নিচে setup গাইড দেখো
+
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/EasinArafat3336/EasinArafat3336/refs/heads/main/profile-3d-contrib/profile-night-view.svg"/>
+<img src="https://raw.githubusercontent.com/EasinArafat3336/EasinArafat3336/refs/heads/main/profile-3d-contrib/profile-green-animate.svg"/>
 
 </div>
 
